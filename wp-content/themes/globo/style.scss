@@ -1,0 +1,28 @@
+/*
+ Theme Name:   Globo
+ Theme URI:    http://gustavopereira.tech
+ Description:  Réplica do site da globo.com
+ Author:       Gustavo Pereira
+ Author URI:   http://gustavopereira.tech
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         globo portal
+ Text Domain:  gustavopereira.tech
+*/
+
+#colunas {
+    display: table;
+    width: 100%;
+
+    &> div {
+        float: left;
+        width: 30%;
+    }
+}
+
+section {
+    &> div {
+        margin: 0 1%;
+    }
+}
