@@ -1,5 +1,7 @@
 
-<div>rodapé</div>
+    <div>rodapé</div>
+
+</main>
 
 <body>
 </html>
